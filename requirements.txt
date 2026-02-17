@@ -1,10 +1,5 @@
-<<<<<<< HEAD
+
 fastapi
 uvicorn
 numpy
-=======
-fastapi
-uvicorn
-numpy
-sentence-transformers
->>>>>>> 771b9970eae3c6d26067d3fa19083e5a8779a19d
+pydantic
